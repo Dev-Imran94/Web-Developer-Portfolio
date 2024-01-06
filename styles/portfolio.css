@@ -41,7 +41,7 @@ nav {
 }
 
 .profile-title {
-    color: var(--Dark-01, #181818);
+    color: #181818;
     font-family: Open Sans;
     font-size: 45px;
     font-weight: 800;
@@ -66,7 +66,7 @@ nav a {
 
 .header {
     background: #FFF8F3;
-    background-image: url(../images/header_bg.png);
+    background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
 }
